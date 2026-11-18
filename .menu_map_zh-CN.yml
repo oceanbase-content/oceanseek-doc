@@ -136,7 +136,7 @@
       400.odp-routing-policy=ODP 路由策略
   1300.drivers=驱动
   1400.platform-products=平台产品
-  1500.components-and-tools=组件 & 工具
+  1500.Components-and-Tools=组件 & 工具
     300.data-integrate=数据集成
       400.cdc=obcdc
         200.obcdc-parameters=obcdc 参数说明
